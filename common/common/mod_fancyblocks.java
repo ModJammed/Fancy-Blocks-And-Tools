@@ -181,7 +181,7 @@ public class mod_fancyblocks {
 	  LanguageRegistry.addName(amethystspade, "Amethyst Shovel");
 	  GameRegistry.addRecipe(new ItemStack(amethystspade,1), new Object[]
 			    {
-			     " X "," Y"," Y ", 'X', common.mod_fancyblocks.amethyst, 'Y', Item.stick
+			     " X "," Y "," Y ", 'X', common.mod_fancyblocks.amethyst, 'Y', Item.stick
 			    });
 //kyanite
 	  kyanite = new itemkyanite(5502, "kyanite").setUnlocalizedName("kyanite");
