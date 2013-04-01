@@ -2,7 +2,8 @@ ModJam-Fancyblocks
 ==================
 
 Fancyblocks mod was created by Justin Johnson (darkflame380/darksidea380) for ModJam 2013
-Mod will be kept updated and new features will eventually be added
+Mod will be kept updated and new features will eventually be added. I had 9 hours of recorded video
+showing the development of this mod but camtasia messed up when saving it so now I have no video.
 
 This mod has 32 new blocks including fancybricks as well as stained glass and a new set of tools.
 the new tool mine slightly faster than iron but have a 1000 uses.
